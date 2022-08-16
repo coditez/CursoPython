@@ -1,2 +1,2 @@
-# CursoemVideo
-Conteúdo de Estudos de Python.
+# Curso em Video
+Conteúdo de Estudos da Linguagem Python.
